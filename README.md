@@ -7,36 +7,57 @@ tries.**
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Game screen 🎮
-### Menu
+### Menu 🖥️
 
-![](Screenshot/menu_play.png)
-
-### Level 1️⃣
-
-![](Screenshot/level1_play.png)
-
-### Level 2️⃣
-
-![](Screenshot/level2_play.png)
-
-### Win 👍🏻
-
-![](Screenshot/win_play.png)
-
-### Lose 👎🏻
-
-![](Screenshot/lose_play.png)
-
-## Top & left view 🛠️
+<img src="Screenshot/menu_play.png" width="400" height="350">
 
 ### Level 1️⃣
 
-![](Screenshot/level1_1.png)
-
-![](Screenshot/level1_2.png)
+<table>
+    <tbody align="center">
+        <tr>
+            <td colspan="2"><img src="Screenshot/level1_play.png" width="400" height="350"></td>
+        </tr>
+        <tr>
+            <td>Top View</td>
+            <td>Left View</td>
+        </tr>
+        <tr>
+            <td><img src="Screenshot/level1_1.png" width="400" height="350"></td>
+            <td><img src="Screenshot/level1_2.png" width="400" height="350"></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Level 2️⃣
 
-![](Screenshot/level2_1.png)
+<table>
+    <tbody align="center">
+        <tr>
+            <td colspan="2"><img src="Screenshot/level2_play.png" width="400" height="350"></td>
+        </tr>
+        <tr>
+            <td>Top View</td>
+            <td>Left View</td>
+        </tr>
+        <tr>
+            <td><img src="Screenshot/level2_1.png" width="400" height="350"></td>
+            <td><img src="Screenshot/level2_2.png" width="400" height="350"></td>
+        </tr>
+    </tbody>
+</table>
 
-![](Screenshot/level2_2.png)
+### Ending 🎯
+
+<table>
+    <tbody align="center">
+        <tr>
+            <td>Win</td>
+            <td>Lose</td>
+        </tr>
+        <tr>
+            <td><img src="Screenshot/win_play.png" width="400" height="350"></td>
+            <td><img src="Screenshot/lose_play.png" width="400" height="350"></td>
+        </tr>
+    </tbody>
+</table>
