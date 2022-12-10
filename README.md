@@ -8,8 +8,13 @@ tries.**
 
 ## Game screen 🎮
 ### Menu 🖥️
-
-<img src="Screenshot/menu_play.png" width="400" height="350">
+<table>
+    <tbody align="center">
+        <tr>
+            <td><img src="Screenshot/menu_play.png" width="400" height="350"></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Level 1️⃣
 
